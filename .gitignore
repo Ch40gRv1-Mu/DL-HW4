@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project datasets (kept locally only)
+data/*.tar.gz
+data/cifar-10-batches-py/
+data/ptb/
